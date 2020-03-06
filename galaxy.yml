@@ -1,0 +1,17 @@
+namespace: gavinfish
+name: azuretest
+version: 0.1.0
+readme: README.md
+authors: null
+description: null
+license: GPL-3.0-or-later
+license_file: COPYING
+tags: null
+dependencies:
+  ansible.netcommon: '>=0.1.0'
+  azure.azcollection: '>=0.1.0'
+  community.general: '>=0.1.0'
+repository: git@github.com:coll-test/gavinfish.azuretest.git
+documentation: https://github.com/coll-test/gavinfish.azuretest/tree/master/docs
+homepage: https://github.com/coll-test/gavinfish.azuretest
+issues: https://github.com/coll-test/gavinfish.azuretest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc

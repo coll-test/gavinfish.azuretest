@@ -1,0 +1,4 @@
+integration_tests_dependencies:
+- azure.azcollection
+- community.general
+unit_tests_dependencies: []
